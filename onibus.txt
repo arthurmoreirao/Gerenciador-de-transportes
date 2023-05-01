@@ -1,0 +1,15 @@
+39
+Ribeira
+Rua 1, Rua 2, Rua 3, Rua 4
+41
+Leningrado
+Rua 5, Rua 6, Rua 7, Rua 8
+33
+Planalto
+Rua 9, Rua 10, Rua 11, Rua 12
+21
+Felipe Camarão
+Rua 9, Rua 10, Rua 11, Rua 12
+08
+Zona Norte
+Rua 9, Rua 10, Rua 11, Rua 12
